@@ -26,7 +26,7 @@ Here's a screenshot of my solution. You may visit the website below to confirm i
 
 ### Links
 
-- Live Site URL: (to be added)
+- Live Site URL: (https://charlesremarks.github.io/QrCodeWebDevPractice/)
 
 ## My process
 
