@@ -30,7 +30,7 @@ main {
 .qrcard {
     padding-top:3vh;
     background-color: var(--card-bg-color);
-    border-radius: 12px;
+    border-radius: 1vw;
     margin: 0 auto;
     text-align: center;
     width: max(22%, 15rem);
@@ -39,7 +39,7 @@ main {
 }
 
 img{
-    border-radius: 8px;
+    border-radius: 0.5vw;
     width: 85%;
 }
 
